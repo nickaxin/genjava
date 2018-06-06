@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h4> Welcome to DevOp's</h4>
+<h4> Welcome to DevOps</h4>
+<h2>Enterprise Application Group</h2>
 </body>
 </html>
